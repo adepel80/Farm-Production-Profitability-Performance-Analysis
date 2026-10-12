@@ -1,4 +1,4 @@
-# Farm-Production-Profitability-Performance-Analysis
+# Farm-Production-and-Profitability-Performance-Analysis
 
 Agriculture plays an important role in food production, employment, and economic development. However, understanding the relationship between production output, operating costs, revenue, and profitability is essential for making informed agricultural decisions.
 
