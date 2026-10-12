@@ -300,6 +300,6 @@ The project also highlights the importance of moving beyond visual presentation 
 
 # CO-Author
 
-Abimbola Tolulope
+Abimbola Tolulope &
 Adebayo E. oluwapelumi
 
