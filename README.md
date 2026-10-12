@@ -26,7 +26,7 @@ Assess the availability of farm facilities and storage infrastructure.
 
 Develop practical, data-driven recommendations for improving agricultural performance.
 
-# Tools and Technologies
+# Tools used for the Analysis
 
 Microsoft Excel: Data organization and preparation.
 
@@ -38,7 +38,7 @@ DAX (Data Analysis Expressions): Measures and calculations, where applicable, fo
 
 <img width="959" height="467" alt="Image" src="https://github.com/user-attachments/assets/45c9874b-41c4-4cc2-af73-baaca96b0a1a" />
 
-## Overview
+## Key Insights-Farm-Production-and-Profitability-Performance-Analysis
 
 The interactive dashboard provides a consolidated view of agricultural performance through key performance indicators (KPIs), comparative charts, and regional analysis.
 
