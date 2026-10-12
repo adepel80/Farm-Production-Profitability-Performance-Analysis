@@ -1,16 +1,31 @@
 # Farm-Production-and-Profitability-Performance-Analysis
 
-Agriculture plays an important role in food production, employment, and economic development. However, understanding the relationship between production output, operating costs, revenue, and profitability is essential for making informed agricultural decisions.
+This project presents a data-driven analysis of farm production, operational costs, revenue, and profitability across Nigeria using Microsoft Power BI.
 
-This project uses Microsoft Power BI to analyze farm production and profitability across different crops, states, and regions. It explores seasonal yield, farmers' years of experience, transportation costs, and the availability of essential farm facilities.
+The analysis is based on a dataset containing **5,000 farm records covering 36 Nigerian states and the Federal Capital Territory (FCT)**, categorized into six geopolitical regions: North Central, North East, North West, South East, South South, and South West.
 
-The goal is to transform agricultural data into meaningful insights that can help farmers, agricultural businesses, and decision-makers improve resource allocation, evaluate financial performance, and identify areas requiring further investment.
+The dataset includes information on crop types, farming seasons, farm sizes, irrigation, mechanization, farmers' years of experience, access to credit, extension services, market distance, storage facilities, labour availability, production costs, yield, total production, selling prices, revenue, profit, and profit margin.
 
+The analysis evaluates agricultural performance across geographical locations and examines how production conditions, operating expenses, and access to farm resources relate to financial outcomes.
+
+### Geographical Coverage
+
+- **Country:** Nigeria
+- **Coverage:** 36 states and the Federal Capital Territory (FCT)
+- **Geographical breakdown:** Six geopolitical regions
+- **Dataset size:** 5,000 farm records
+
+
+### 🎯 Project Goal
+
+The primary goal is to transform agricultural data into actionable insights that support better farm management, financial planning, resource allocation, and agricultural investment decisions.
+
+The project uses Microsoft Power BI to compare crop profitability, regional production, seasonal yield, transportation costs, and farm infrastructure, providing a clearer understanding of agricultural performance across Nigeria.
 # Objectives
 
 ## The analysis was designed to:
 
-Evaluate overall farm production, revenue, costs, and profitability.
+Evaluate overall farm production, revenue, costs, and profitability across Nigeria.
 
 Compare the financial performance of different crops.
 
@@ -38,7 +53,7 @@ DAX (Data Analysis Expressions): Measures and calculations, where applicable, fo
 
 <img width="959" height="467" alt="Image" src="https://github.com/user-attachments/assets/45c9874b-41c4-4cc2-af73-baaca96b0a1a" />
 
-## Key Insights-Farm Production and Profitability Performance Analysis
+## Key Insights-Farm Production and Profitability Performance Analysis across Nigeria
 
 The interactive dashboard provides a consolidated view of agricultural performance through key performance indicators (KPIs), comparative charts, and regional analysis.
 
