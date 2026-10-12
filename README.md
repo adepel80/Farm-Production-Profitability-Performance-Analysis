@@ -48,6 +48,8 @@ The interactive dashboard provides a consolidated view of agricultural performan
 The dashboard highlights six major indicators:
 
 KPI
+https://github.com/adepel80/Farm-Production-Profitability-Performance-Analysis/issues/3#issue-5811531237
+
 
 Insight: The reported revenue is higher than the reported cost, indicating a positive overall financial result. The facility indicators also highlight a potential infrastructure challenge that deserves further investigation.
 
