@@ -48,7 +48,8 @@ The interactive dashboard provides a consolidated view of agricultural performan
 The dashboard highlights six major indicators:
 
 KPI
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/deaefcee-713d-495c-9118-8d862e258bb7" />
+
+<img width="1280" height="499" alt="Image" src="https://github.com/user-attachments/assets/837eead3-e320-4ee6-bc05-1df9b2d2769e" />
 
 
 Insight: The reported revenue is higher than the reported cost, indicating a positive overall financial result. The facility indicators also highlight a potential infrastructure challenge that deserves further investigation.
